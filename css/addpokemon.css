@@ -1,0 +1,37 @@
+* {
+    font-family: 'Lato', sans-serif;
+  }
+
+  h1 {
+    text-align: center;
+    margin: 2em;
+    font-size: 45px;
+    text-transform: uppercase
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  form>input {
+    margin: 1em;
+    padding: 1em;
+    border-radius: 4px;
+  }
+
+  #button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 12px;
+    padding: 1em
+  }
+
+  main {
+    max-width: 1024px;
+    align-self: center;
+    margin: auto;
+  }
+  
+  body{
+    margin: 0;
+  }
