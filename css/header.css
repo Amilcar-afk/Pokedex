@@ -1,0 +1,40 @@
+@font-face{
+  src: url('fonts/lato-Bold.ttf');
+  font-family: 'lato';
+}
+*{
+  font-family: 'lato';
+}
+header{
+  background-color:  #AAA;
+  color:#FFF;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.logo_h{
+  height:40px ;
+  /*margin-left: 10px;
+  margin-top: 10px;*/
+}
+a{
+  text-decoration: none;
+  color:#FFF;
+  padding:0.5em;
+}
+a:hover{
+  text-decoration: underline;
+}
+.ul_header{
+  float: right;
+  padding-top: 6px;
+}
+.ul_header > li{
+  margin-right: 15px;
+  list-style: none;
+  display: inline-block;
+}
+.accueil_link{
+  text-decoration: underline;
+}
