@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
         <?php
-            include('includes/header.php');
+            
+include('includes/header.php');
         ?>
         <link href="css/addpokemon.css" rel="stylesheet">
         <title>Ajout de pokemon</title>
