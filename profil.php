@@ -4,6 +4,7 @@ require('includes/config.php');
 <!DOCTYPE HTML>
 <html>
     <?php
+
         include('includes/header.php');
     ?>
     <link href="css/profil.css" rel="stylesheet">
